@@ -1,0 +1,2 @@
+->Implementation of Left leaning Red black binary search trees.
+->Complete description can be found at http://algs4.cs.princeton.edu/code/javadoc/BST.html
